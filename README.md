@@ -23,9 +23,8 @@ Production Use Cases (MongoDB track).
 
 | | |
 |---|---|
-| **Live demo** | _Not yet deployed. Add the Render URL here once the service is live (see [Deployment](#deployment))._ |
-| **Demo video** | _Add the link before submission._ |
-| **Project documentation** | [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md) (PDF: [docs/PARAKH_Documentation.pdf](docs/PARAKH_Documentation.pdf)): overview, implementation, technology choices, impact, access instructions, attribution |
+| **Live demo** | https://prompt-regression-guard.onrender.com/ |
+| **Project documentation and video** | https://drive.google.com/drive/folders/1oj_aeMQuXkfEZZkI4LIgP_BfIHWvV_gg?usp=sharing: overview, implementation, technology choices, impact, access instructions, attribution |
 
 > [!NOTE]
 > The demo uses a **scripted, deterministic mock model**, not a real LLM. Every output,
