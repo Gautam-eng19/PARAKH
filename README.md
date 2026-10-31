@@ -427,7 +427,7 @@ More detail: [`docs/GITHUB.md`](docs/GITHUB.md).
 ### macOS and Linux
 
 ```bash
-git clone https://github.com/rubella2121/uncharted.git
+git clone https://github.com/Gautam-eng19/PARAKH.git
 cd uncharted
 python3 -m venv .venv
 source .venv/bin/activate
@@ -450,7 +450,7 @@ interactive API documentation.
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/rubella2121/uncharted.git
+git clone https://github.com/Gautam-eng19/PARAKH.git
 cd uncharted
 python -m venv .venv
 .venv\Scripts\Activate.ps1
