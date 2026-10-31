@@ -1,4 +1,4 @@
-# PARAKH: project documentation
+https://prompt-regression-guard.onrender.com/# PARAKH: project documentation
 
 **UNCHARTED 2026** (NEXUS × SVNIT Surat, in collaboration with MongoDB and n8n) ·
 Track 3: Developer Tools for Production Use Cases
@@ -10,10 +10,9 @@ CLI reference are in the [README](../README.md); this document explains the proj
 
 | Item | Where |
 |---|---|
-| Live deployment | _Add the Render URL here after deploying (see [DEPLOY.md](DEPLOY.md))._ |
-| GitHub repository | <https://github.com/rubella2121/uncharted> |
-| Demo video (≤ 7 min) | _Add the link before submission._ |
-| Presentation deck | _Add the link before submission._ |
+| Live deployment | <https://prompt-regression-guard.onrender.com> |
+| GitHub repository | <https://github.com/Gautam-eng19/PARAKH> |
+| Presentation deck | <https://drive.google.com/drive/folders/1oj_aeMQuXkfEZZkI4LIgP_BfIHWvV_gg?usp=sharing> |
 
 ---
 
